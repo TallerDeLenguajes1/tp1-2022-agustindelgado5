@@ -1,0 +1,15 @@
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\obj\Debug\net6.0\Problema3.csproj.AssemblyReference.cache
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\obj\Debug\net6.0\Problema3.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\obj\Debug\net6.0\Problema3.AssemblyInfoInputs.cache
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\obj\Debug\net6.0\Problema3.AssemblyInfo.cs
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\obj\Debug\net6.0\Problema3.csproj.CoreCompileInputs.cache
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\bin\Debug\net6.0\Problema3.exe
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\bin\Debug\net6.0\Problema3.deps.json
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\bin\Debug\net6.0\Problema3.runtimeconfig.json
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\bin\Debug\net6.0\Problema3.dll
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\bin\Debug\net6.0\Problema3.pdb
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\obj\Debug\net6.0\Problema3.dll
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\obj\Debug\net6.0\refint\Problema3.dll
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\obj\Debug\net6.0\Problema3.pdb
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\obj\Debug\net6.0\Problema3.genruntimeconfig.cache
+C:\repos\tp1\tp1-2022-agustindelgado5\Punto2\Problema3\obj\Debug\net6.0\ref\Problema3.dll
